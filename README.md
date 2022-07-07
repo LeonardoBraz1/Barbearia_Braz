@@ -1,6 +1,10 @@
 # Barbearia_Braz
 <p align="center">Projeto do curso HTML5 e CSS3 da alura, com algumas modificações.</p>
 
+# :link: Links
+
+<a href="https://leonardobraz1.github.io/Barbearia_Braz/">Link do site Barbearia Braz</a>
+
 # Tamanhos de telas
 <h2 align="center">💻 PC</h2>
 <div align="center"> <img src="https://user-images.githubusercontent.com/101673432/177228923-ee1e1d3a-c817-4825-90ad-1105b8a1df4d.png"/> </div>
